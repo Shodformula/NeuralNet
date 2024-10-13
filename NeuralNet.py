@@ -1,7 +1,3 @@
-# Syed Ahmed
-# CS 4375.001 
-# Assignment 2
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
